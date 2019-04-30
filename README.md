@@ -1,11 +1,16 @@
-# NLP
-通俗理解潜在语义分析LSA
-https://www.jianshu.com/p/9fe0a7004560
-
-通俗理解word2vec
-https://www.jianshu.com/p/471d9bfbd72f
-
-Word2Vector之详解Skip-gram
-https://blog.csdn.net/jasonzhoujx/article/details/83747160
-
-自己的关于情感分析和自然语言处理的项目代码。
+# Assignment: Sentiment Analysis
+--------
+1. Clone repository using git clone
+2. Go to the repository's folder
+3. Create the environment:
+```
+conda env create --force -f environment.yml
+```
+4. Activate the environment:
+```
+activate mie451-assignment-sa
+```
+5. Run Jupyter notebook:
+```
+jupyter notebook
+```
