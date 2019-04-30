@@ -7,3 +7,5 @@ https://www.jianshu.com/p/471d9bfbd72f
 
 Word2Vector之详解Skip-gram
 https://blog.csdn.net/jasonzhoujx/article/details/83747160
+
+自己的关于情感分析和自然语言处理的项目代码。
