@@ -1,16 +1,3 @@
-# Assignment: Sentiment Analysis
---------
-1. Clone repository using git clone
-2. Go to the repository's folder
-3. Create the environment:
-```
-conda env create --force -f environment.yml
-```
-4. Activate the environment:
-```
-activate mie451-assignment-sa
-```
-5. Run Jupyter notebook:
-```
-jupyter notebook
-```
+使用nltk库和一个名为Vader的nltk情绪分析包。 使用Tripadvisor爬虫，爬一个特定的数据集，收集全世界各地任一酒店的评论。
+计算每家酒店的平均Vader情绪分数和平均真实评级。
+
